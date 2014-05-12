@@ -1,3 +1,0 @@
-barysky
-=======
-echo "hello"
