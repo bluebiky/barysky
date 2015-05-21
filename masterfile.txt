@@ -1,1 +1,1 @@
-echo “主干文件夹”
+echo “主干文件夹”"This is localhost test from local network"
