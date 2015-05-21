@@ -1,2 +1,5 @@
-"<?php echo phpinfo(); ?>"
-"I am sorry@!"
+<?php echo phpinfo(); ?>
+
+
+
+I am sorry@!
